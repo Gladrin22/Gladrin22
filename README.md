@@ -1,4 +1,4 @@
-### Hi there <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width = 30px></img> I am Gladrin Gideon Aroul
+### Hi there <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width = 30px></img> I am Gladrin Gideon Aroul , I am a Data Analyst aspiring Data Scientist / Machine Learning Engineer
 
 <!--
 **Gladrin22/Gladrin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
