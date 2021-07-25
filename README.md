@@ -2,7 +2,7 @@
 :star: I am a Data Analyst / aspiring Data Scientist / Machine Learning Engineer
 ✨✨
 # Languages :
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>,<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>,<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>,<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 
 <!--
 **Gladrin22/Gladrin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
