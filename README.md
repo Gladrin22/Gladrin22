@@ -3,7 +3,9 @@
 ✨✨
 ### I :heart: <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gladrin22&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Gladrin22&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
 
 
 
