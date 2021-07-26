@@ -3,6 +3,7 @@
 ✨✨
 ### I :heart: <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Gladrin22&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Languages and tools:
