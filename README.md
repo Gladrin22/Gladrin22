@@ -3,7 +3,7 @@
 ✨✨
 ### I :heart: <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Gladrin22&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 
 
