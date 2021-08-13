@@ -4,6 +4,7 @@
 ## I :heart: <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 # Certifications :
+<img src = "https://github.com/Gladrin22/Gladrin22/blob/main/Fcc_Certificate_one.png" width = 400px>
 
 ![Profile views](https://gpvc.arturio.dev/Gladrin22)
 
