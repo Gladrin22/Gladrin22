@@ -1,5 +1,5 @@
 # Hey there <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width = 30px></img> I am Gladrin Gideon Aroul :sunglasses:
-:star:I am a Machine Learning and Artificial Intelligence Engineer . Building effecient machine learning models to enhance people's lifes and playing a important part in companie's growth .
+:star:I am a Machine Learning and Artificial Intelligence Engineer . Building effecient machine learning models to enhance peoples life and playing a important part in companies growth .
 ✨✨<br>
 I can do all things through Christ who strengthens me. - Philippians 4:13
 ### I :heart: <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
