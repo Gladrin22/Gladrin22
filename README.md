@@ -1,5 +1,5 @@
 # Hey there <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width = 30px></img> I am Gladrin Gideon Aroul :sunglasses:
-:star:I am a Full Stack Developer
+:star:I am a Machine Learning and Artificial Intelligence Engineer . Eager to see the A.I evolution .
 ✨✨
 ### I :heart: <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 # Skills 
