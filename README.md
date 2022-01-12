@@ -3,6 +3,6 @@
 ✨✨
 ## I can do all things through Christ who strengthens me. - Philippians 4:13
 ### I :heart: <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
+<img alt = "Python" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black">
 ![Profile views](https://gpvc.arturio.dev/Gladrin22)
 
