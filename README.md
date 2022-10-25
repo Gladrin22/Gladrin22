@@ -1,7 +1,7 @@
 # Hey there, I am Gladrin Gideon Aroul :sunglasses:
-:star:I am Business Analyst & Data Science professional . Helping companies to make awesome data driven decisions. Data driven businesses always rocks.Converting data into valuable insights. Building custom ETL patterns for booming the business industry! .Building AI for the common good. Aiming to build more sustainable and scalable tech eco-system. I am a Futurist  . 
+:star:I am an aspiring business leader / agilest.I am SAFe® 5  Scrum Master and I believe Data driven business always rocks !! I like to manage , motivate , implement changes , find and fix problems and transform !! teams and organization ;-) . I Help teams to make awesome decisions and i believe in "Empiricism + Lean Thinking" . business agility matters to me so that businesses of the 21st century can compete in the digital era and can always rock ! . Wow ! , So during my undergrad I was the president of Science and Humanities Association and also the president of Computer Science and Engineering department i have initiated and managed many workshops and seminars. I have also organized many cultural and technical events for the welfare of the students. I am also interested to build AI for the common good. Aiming to build more sustainable and scalable tech and management ecosystem. I am a Futurist .  . 
 ✨✨
-## I can do all things through Christ who strengthens me. - Philippians 4:13
+## Choose Rightly , Learn Wisely , Shine Brightly 
 
 
 
