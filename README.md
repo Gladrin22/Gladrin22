@@ -3,6 +3,7 @@
 ✨✨
 
 https://form.typeform.com/to/jSuNEYta
+https://form.typeform.com/to/ki5OB5qX
 ## Choose Rightly , Learn Wisely , Shine Brightly 
 
 
