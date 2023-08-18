@@ -5,7 +5,7 @@
 https://form.typeform.com/to/sZ7X3BJg -> Pre Workshop 
 https://form.typeform.com/to/vfsMQKly -> Post Workshop 
 
-https://form.typeform.com/to/yvKSuG4Z  =>Feedback
+https://form.typeform.com/to/yvKSuG4Z -> Feedback Form
 
 ## Choose Rightly , Learn Wisely , Shine Brightly 
 
