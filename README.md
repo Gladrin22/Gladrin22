@@ -12,8 +12,8 @@
 ✨✨
 ✨✨✨✨
 <br>
-https://form.typeform.com/to/ZWZO1sBr --> Pre Workshop <br>
-https://form.typeform.com/to/Syosv8DE  --> Post Workshop <br>
+https://form.typeform.com/to/MBGtsD03   --> Pre Workshop <br>
+ https://form.typeform.com/to/QCgvawIt    --> Post Workshop <br>
 <br>
 
 ## Choose Rightly , Learn Wisely , Shine Brightly 
