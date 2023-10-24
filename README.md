@@ -12,8 +12,8 @@
 ✨✨
 ✨✨✨✨
 <br>
- <br>
-<br>
+https://form.typeform.com/to/MBGtsD03 <br>
+https://form.typeform.com/to/QCgvawIt <br>
 <br>
 
 ## Choose Rightly , Learn Wisely , Shine Brightly 
