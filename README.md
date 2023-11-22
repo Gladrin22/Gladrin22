@@ -12,9 +12,7 @@
 ✨✨
 ✨✨✨✨
 <br>
-https://amcenchennai.typeform.com/to/ND8zmxqT  ---Pre<br>
-
-https://amcenchennai.typeform.com/to/rdHUU7d9 ---Post<br>
+https://amcenchennai.typeform.com/to/ND8zmxqT
 
 <br>
 
