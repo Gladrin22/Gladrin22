@@ -3,20 +3,7 @@
 
 
 
-
-✨✨
-✨✨
-✨✨✨✨✨✨
-✨✨
-✨✨✨✨✨✨
-✨✨
-✨✨✨✨
-<br>
-https://amcenchennai.typeform.com/to/JKB7eJ73
-
-<br>
-
-## Choose Rightly , Learn Wisely , Shine Brightly 
+## I can do all things through Christ who give me strength ! 
 
 
 
